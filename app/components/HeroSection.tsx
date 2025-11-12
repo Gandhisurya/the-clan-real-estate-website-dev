@@ -6,17 +6,17 @@ import { MoveLeft, MoveRight } from "lucide-react";
 const CAROUSEL_IMAGES = [
   {
     id: 1,
-    url: "./icons/bg-img1.jpeg",
+    url: "./Icons/bg-img1.jpeg",
     title: "Golden Beginnings",
   },
   {
     id: 2,
-    url: "./icons/bg-img2.jpeg",
+    url: "./Icons/bg-img2.jpeg",
     title: "Premium Living",
   },
   {
     id: 3,
-    url: "./icons/bg-img3.jpeg",
+    url: "./Icons/bg-img3.jpeg",
     title: "Urban Lifestyle",
   },
 ];
